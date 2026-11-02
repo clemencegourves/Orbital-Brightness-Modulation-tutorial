@@ -1,6 +1,7 @@
 # Orbital Brightness Modulation (OBM) tutorial
 
 **Hands-on session: spotting a non-transiting companion in a *Kepler* light curve.**
+Tutorial presented during the Lorentz Center workshop: Star-Planet Interactions: Entangled Fates and Open Futures (November 2026).
 
 A close-in companion does not need to transit to leave a mark on its star's light curve: it can induce a small, periodic brightness modulation at its orbital period. In this tutorial you will search for such a signal in the power spectral density (PSD) of *Kepler* light curves, and learn to tell it apart from stellar activity and contamination.
 
