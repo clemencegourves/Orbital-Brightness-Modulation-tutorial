@@ -61,7 +61,7 @@ pip install -r requirements.txt
 jupyter lab OBM_tutorial.ipynb
 ```
 
-Then run the cells from top to bottom. Please do the installation **before** the session, it only takes a few minutes.
+Then run the cells from top to bottom.
 
 ## Repository content
 
@@ -101,9 +101,9 @@ This tutorial uses the Python package [apollinaire](https://apollinaire.readthed
 
 **Related papers**
 <!-- TODO: add authors and titles -->
-- [A&A 712, A237 (2026)](https://ui.adsabs.harvard.edu/abs/2026A%26A...712A.237B/abstract)
-- [arXiv:2609.20355 (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260920355L/abstract)
-- [PASP 129, 072001 (2017)](https://ui.adsabs.harvard.edu/abs/2017PASP..129g2001S/abstract)
+- Breton et al. 2026 [A&A 712, A237 (2026)](https://ui.adsabs.harvard.edu/abs/2026A%26A...712A.237B/abstract)
+- Lillo-Box et al. 2026 [arXiv:2609.20355 (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260920355L/abstract)
+- Shporer 2017 [PASP 129, 072001 (2017)](https://ui.adsabs.harvard.edu/abs/2017PASP..129g2001S/abstract)
 
 ## Contact
 
