@@ -80,15 +80,30 @@ The notebook saves its own figures in a `figures/` folder, created on the first 
 
 ## Data
 
-- **Light curves**: *Kepler* long-cadence data, high-pass filtered at 20 days and calibrated with the KEPSEISMIC method (García et al., 2011, 2014; Pires et al., 2015).
-- **Stellar properties**: Santos et al. (2019, 2021), in particular the rotation periods.
+- **Light curves**: *Kepler* long-cadence data, high-pass filtered at 20 days and calibrated with the KEPSEISMIC method ([García et al., 2011](https://ui.adsabs.harvard.edu/abs/2011MNRAS.414L...6G/abstract), [2014](https://ui.adsabs.harvard.edu/abs/2014A%26A...572A..34G/abstract); [Pires et al., 2015](https://ui.adsabs.harvard.edu/abs/2015A%26A...574A..18P/abstract)).
+- **Stellar properties**: ([Santos et al., 2019](https://ui.adsabs.harvard.edu/abs/2019ApJS..244...21S/abstract), [2021](https://ui.adsabs.harvard.edu/abs/2021ApJS..255...17S/abstract)), in particular the rotation periods.
+
+## Software
+
+This tutorial uses the Python package [apollinaire](https://apollinaire.readthedocs.io/en/latest/index.html).
 
 ## References
 
-- Related paper: *Non-transiting exoplanets as a means of understanding star-planet interactions in close-in systems*, [arXiv:2505.10135](https://arxiv.org/abs/2505.10135)
-- García et al. (2011, 2014); Pires et al. (2015): *Kepler* light curves and the KEPSEISMIC method
-- Santos et al. (2019, 2021): stellar rotation periods
-- Morton et al. (2016): statistical validation of *Kepler* planets, including Kepler-685 b
+**Main paper**
+- *Non-transiting exoplanets as a means of understanding star-planet interactions in close-in systems*, [A&A 699, A226 (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...699A.226G/abstract)
+
+**Data and methods**
+- García et al. (2011), [MNRAS 414, L6](https://ui.adsabs.harvard.edu/abs/2011MNRAS.414L...6G/abstract)
+- García et al. (2014), [A&A 572, A34](https://ui.adsabs.harvard.edu/abs/2014A%26A...572A..34G/abstract)
+- Pires et al. (2015), [A&A 574, A18](https://ui.adsabs.harvard.edu/abs/2015A%26A...574A..18P/abstract)
+- Santos et al. (2019), [ApJS 244, 21](https://ui.adsabs.harvard.edu/abs/2019ApJS..244...21S/abstract)
+- Santos et al. (2021), [ApJS 255, 17](https://ui.adsabs.harvard.edu/abs/2021ApJS..255...17S/abstract)
+
+**Related papers**
+<!-- TODO: add authors and titles -->
+- [A&A 712, A237 (2026)](https://ui.adsabs.harvard.edu/abs/2026A%26A...712A.237B/abstract)
+- [arXiv:2609.20355 (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260920355L/abstract)
+- [PASP 129, 072001 (2017)](https://ui.adsabs.harvard.edu/abs/2017PASP..129g2001S/abstract)
 
 ## Contact
 
