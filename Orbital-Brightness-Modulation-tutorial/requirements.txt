@@ -1,8 +1,0 @@
-# NOTE: check this list against the imports at the top of OBM_functions.py
-numpy
-pandas
-matplotlib
-scipy
-astropy
-apollinaire
-jupyterlab
