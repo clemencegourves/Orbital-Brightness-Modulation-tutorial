@@ -22,7 +22,9 @@ Click the green **Code** button at the top of this page, then **Download ZIP**, 
 
 ### 2. Install the dependencies
 
-You need Python 3.10 or later and Jupyter. In a terminal, from the unzipped folder:
+You need Python 3.10 or later and Jupyter. 
+Normally, you will only need to install the apollinaire package (the command is in the jupyter notebook)
+But if you want a clean instalation, in a terminal, from the unzipped folder:
 
 ```bash
 # with conda
