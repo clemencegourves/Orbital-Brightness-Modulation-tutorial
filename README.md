@@ -5,35 +5,12 @@ Tutorial presented during the Lorentz Center workshop: Star-Planet Interactions:
 
 A close-in companion does not need to transit to leave a mark on its star's light curve: it can induce a small, periodic brightness modulation at its orbital period. In this tutorial you will search for such a signal in the power spectral density (PSD) of *Kepler* light curves, and learn to tell it apart from stellar activity and contamination.
 
-<p align="center">
-  <img src="images/7847566_psd_total.png" width="48%" alt="PSD of KIC 7847566 with the detected candidate signal">
-  <img src="images/7847566_phase_folding.png" width="48%" alt="Light curve of KIC 7847566 folded at 0.38 day">
-</p>
-
-*Left: PSD of KIC 7847566. After excluding the rotation signal, a narrow peak at 0.38 day stands out (red star). Right: folded at this period, the light curve shows a smooth, stable modulation.*
-
 ## What you will learn
 
 1. Load *Kepler* long-cadence light curves and stellar properties.
 2. Compute the PSD of a light curve.
 3. Tell a **stellar-activity peak** (rotation and its harmonics) apart from a **candidate orbital signal**.
 4. Measure the period of the signal and check its **stability** by phase folding.
-
-## The four stars
-
-| KIC | Prot (d) | Peak (d) | Folded light curve | Verdict |
-|---|---|---|---|---|
-| 9837312 | 4.99 | 2.5 | not folded | stellar activity (first harmonic of Prot) |
-| 7847566 | 28.58 | 0.38 | smooth, stable modulation | **non-transiting companion candidate** |
-| 11154093 | 10.39 | 0.26 | incoherent, changing amplitude | false positive (contamination) |
-| 3351888 | 33.99 | 1.63 | sharp periodic dip | transit: the known planet **Kepler-685 b** |
-
-<p align="center">
-  <img src="images/11154093_phase_folding.png" width="48%" alt="KIC 11154093 folded: incoherent signal">
-  <img src="images/3351888_phase_folding.png" width="48%" alt="KIC 3351888 folded: transit of Kepler-685 b">
-</p>
-
-*Left: a counter-example, the signal is not coherent. Right: our method also recovers the known transiting planet Kepler-685 b.*
 
 ## Quick start
 
